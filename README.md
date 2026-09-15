@@ -18,12 +18,12 @@ Esta aplicação resolve esse atrito: basta colar a citação bruta copiada da p
 
 ### 1. Entrada (Citação no formato APA copiada do PubMed)
 ```text
-Broutier, L., Andersson-Rolf, A., Hindley, C. J., Boj, S. F., Clevers, H., Koo, B. K., & Huch, M. (2016). Culture and establishment of self-renewing human and mouse adult liver and pancreas 3D organoids and their genetic manipulation. Nature protocols, 11(9), 1724–1743. [https://doi.org/10.1038/nprot.2016.097](https://doi.org/10.1038/nprot.2016.097)
+Broutier, L., Andersson-Rolf, A., Hindley, C. J., Boj, S. F., Clevers, H., Koo, B. K., & Huch, M. (2016). Culture and establishment of self-renewing human and mouse adult liver and pancreas 3D organoids and their genetic manipulation. Nature protocols, 11(9), 1724–1743. https://doi.org/10.1038/nprot.2016.097
 ```
 
 ### 2. Saída (Referência ABNT NBR 6023 gerada e enviada para o Clipboard)
 ```text
-BROUTIER, L. et al. Culture and establishment of self-renewing human and mouse adult liver and pancreas 3D organoids and their genetic manipulation. Nature Protocols, v. 11, n. 9, p. 1724-1743, 2016. DOI: [https://doi.org/10.1038/nprot.2016.097](https://doi.org/10.1038/nprot.2016.097).
+BROUTIER, Laura et al. Culture and establishment of self-renewing human and mouse adult liver and pancreas 3D organoids and their genetic manipulation. Nature Protocols, v. 11, n. 9, p. 1724-1743, 2016. [10.1038/nprot.2016.097]
 ```
 
 ---
