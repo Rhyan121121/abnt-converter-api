@@ -21,6 +21,7 @@ func authorsFormatter(metadata crossref.ArticleMetadata) string {
 			builder.WriteString(", ")
 			builder.WriteString(author.Given)
 		}
+		builder.WriteString(". ")
 		return builder.String()
 	}
 

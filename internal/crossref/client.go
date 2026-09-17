@@ -47,6 +47,7 @@ func (c *Client) GetMetadata(doi string) (*ArticleMetadata, error) {
 	}
 
 	searchUrl := c.baseURL + cleanDoi
+	fmt.Printf("searchUrl: %s\n", searchUrl)
 	req, err := http.NewRequest(http.MethodGet, searchUrl, nil)
 	if err != nil {
 		return nil, fmt.Errorf("falha ao criar a requisição http: %w", err)
